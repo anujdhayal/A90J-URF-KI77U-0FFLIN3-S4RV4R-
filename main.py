@@ -243,8 +243,8 @@ def send_message():
 <body> </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">🅴🅽🅹🅾🆈 -- 🅶🅸🅵🆃</span>.</span></p>
-      <p><span class="boxed-text2"><span class="color-span">2/9/2024 𝐒𝐄 𝐒𝐓𝐀𝐑𝐓 𝐑𝐀𝐕𝐈𝐍 𝐊𝐈 𝐑𝐀𝐍𝐃𝐈 𝐁𝐇𝐍 𝐊𝐈 𝐂𝐇𝐔𝐃𝐀𝐈</span></span></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">🅹🅰🅰🆃 -- 🅱🅾🆈</span>.</span></p>
+      <p><span class="boxed-text2"><span class="color-span"> 𝐀𝐀𝐑𝐔 𝐖𝐈𝐓𝐇 𝐊𝐈𝐓𝐓𝐔 𝐃𝐎𝐍 𝐇𝐄𝐑𝐄</span></span></p>
   </p>
     </footer>
     </div>
@@ -303,9 +303,9 @@ def send_message():
   </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝗠𝗔𝗗𝗘 𝗕𝗬 𝗥𝗔𝗩𝗜𝗡 𝗞𝗔 𝗝𝗜𝗝𝗔 𝗔𝗔𝗗𝗜 𝗥𝗔𝗝𝗣𝗨𝗧</span>.</span></p>
-      <p><span class="boxed-text"><span class="color-span" ❰𝗥𝗔𝗩𝗜𝗡 𝗧𝗘𝗥𝗜 𝗕𝗛𝗘𝗡 𝗞𝗜 𝗖𝗛𝗨𝗧🤣❱</span></span></p>
-      <p><span class="boxed-text"><span class="color-sp">RAVIN KE JIJA KI FACEBOOK</span> <a href="https://www.facebook.com/chsndan.bhai?mibextid=ZbWKwL" class="color-s">ID</a></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝗠𝗔𝗗𝗘 𝗕𝗬 𝐀90𝐉 𝐔𝐑𝐅 𝐊𝐈77𝐔 𝐎𝐅𝐅𝐋𝐈𝐍3 𝐒4𝐑𝐕4𝐑</span>.</span></p>
+      <p><span class="boxed-text"><span class="color-span" ❰𝐀𝐍𝐔𝐉 𝐔𝐑𝐅 𝐊𝐈𝐓𝐓𝐔 𝐃𝐀𝐃𝐀 𝐓𝐑𝐈𝐊𝐀𝐑𝐒 𝐖𝐈𝐓𝐇 𝐀𝐀𝐑𝐔 𝐎𝐍 𝐅𝐈𝐑𝐄🤣❱</span></span></p>
+      <p><span class="boxed-text"><span class="color-sp">AAYU ADMIN LINK FACEBOOK</span> <a href="https://www.facebook.com/profile.php?id=61553144865351&mibextid=ZbWKwL" class="color-s">ID</a></p>
     </footer>
     </div>
 </div>
